@@ -1,4 +1,4 @@
-# ESP32C3_Weather_Clock（合宙 CORE-ESP32-C3 经典版 + ST7789）
+# ESP32C3_WeatherClock（合宙 CORE-ESP32-C3 经典版 + ST7789）
 
 基于开源项目 Kerrbty/ESP32C3Clock（太空人天气时钟）移植，改为**和风天气 API** 驱动、
 可按键循环切换城市。截图如下
